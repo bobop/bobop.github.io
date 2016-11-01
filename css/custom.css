@@ -16,6 +16,9 @@ p.experience, p.experience-title {
 p.experience {
   margin-top: 1rem;
 }
+.centered {
+  text-align: center;
+}
 
 ul {
   margin-top: 1rem;
@@ -24,4 +27,11 @@ ul {
 }
 li {
   margin-bottom: 0rem;
+}
+
+.title, h4, .contact {
+  color: #45b0a5;
+}
+a {
+  color: #9FDAD4;
 }
