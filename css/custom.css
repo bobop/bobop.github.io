@@ -1,10 +1,14 @@
 .container {
-  max-width: 700px !important;
+  max-width: 900px !important;
 }
 
 .header {
   padding: 20px 0;
   text-align: center;
+}
+
+.padded {
+  margin-right: 1rem;
 }
 
 .experience-row {
@@ -23,7 +27,8 @@ p.experience {
 ul {
   margin-top: 1rem;
   margin-bottom: 0rem;
-  margin-left: 3rem;
+  margin-left: 1rem;
+  list-style: circle outside;
 }
 li {
   margin-bottom: 0rem;
@@ -33,5 +38,9 @@ li {
   color: #45b0a5;
 }
 a {
-  color: #9FDAD4;
+  color: #45b0a5;
+}
+
+h4 {
+  margin-bottom: 0.5em;
 }
